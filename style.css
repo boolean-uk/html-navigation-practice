@@ -67,6 +67,31 @@ p {
 strong {
   color: #280680;
 }
+/********/
+a {
+  text-decoration: none;
+}
+
+a:hover {
+  color: gray;
+}
+
+.btn {
+  border: 1px solid gray;
+  padding: 10px 20px;
+  border-radius: 7px;
+}
+
+.btn:hover {
+  background-color: #d7cee7;
+}
+
+.container {
+  max-width: 900px;
+  padding-left: 20px;
+  line-height: 1.5;
+  margin: 0 auto;
+}
 
 /* Main header and navigation */
 
