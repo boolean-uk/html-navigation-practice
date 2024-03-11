@@ -132,6 +132,14 @@ main {
   font-size: 1.25rem;
 }
 
+.content-nav a {
+  text-decoration: none;
+}
+
+.content-nav a:hover {
+  color: black;
+}
+
 .content-nav hr {
   border: 1px solid #eceff1;
 }
@@ -170,6 +178,14 @@ aside {
 
 .more-articles h2 {
   text-align: center;
+}
+
+.more-articles a {
+  text-decoration: none;
+}
+
+.more-articles a:hover {
+  color: black;
 }
 
 /* Footer */
